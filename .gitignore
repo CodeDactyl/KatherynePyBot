@@ -1,0 +1,9 @@
+# Project
+*.env
+discord.log
+
+# Python
+*.pyc
+
+# IDE
+.idea
